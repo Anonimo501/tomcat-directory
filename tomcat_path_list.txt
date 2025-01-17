@@ -2,6 +2,8 @@
 /admin-console
 /cgi
 /cgi/
+/cgi-bin
+/cgi-bin/
 /docs/
 /examples
 /examples/jsp/index.html
